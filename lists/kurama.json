@@ -1,12 +1,12 @@
 {
   "name": "Kurama",
-  "timestamp": "2023-10-30T09:43:12.467Z",
+  "timestamp": "2023-10-30T12:06:01.703Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
-  "logoURI": "https://tokenlist.kurama.app/image/0x5c1fe01d69d2657455b6d4ae61500f2f42353e10.png",
+  "logoURI": "https://kurama-token.netlify.app/images/kurama/0x5c1fe01d69d2657455b6d4ae61500f2f42353e10.png",
   "keywords": [
     "kurama",
     "default"
@@ -18,7 +18,7 @@
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://tokenlist.kurama.app/image/0xa8AEfb1aFD335b43Ec8761bc0dc6fcD8657aAe87.png",
+      "logoURI": "https://tokenlist.kurama.app/images/0xa8AEfb1aFD335b43Ec8761bc0dc6fcD8657aAe87.png",
       "isNative": true,
       "extensions": {
         "scrollListId": "default",
@@ -57,7 +57,7 @@
       "name": "Balancer",
       "symbol": "BAL",
       "decimals": 18,
-      "logoURI": "https://tokenlist.kurama.app/image0x6a28e90582c583fcd3347931c544819C31e9D0e0.png",
+      "logoURI": "https://tokenlist.kurama.app/images/0x6a28e90582c583fcd3347931c544819C31e9D0e0.png",
       "extensions": {
         "scrollListId": "default",
         "scrollTokenId": "BAL"
@@ -83,7 +83,7 @@
       "name": "Curve DAO",
       "symbol": "CRV",
       "decimals": 18,
-      "logoURI": "https://tokenlist.kurama.app/image0xB755039eDc7910C1F1BD985D48322E55A31AC0bF.png",
+      "logoURI": "https://tokenlist.kurama.app/images/0xB755039eDc7910C1F1BD985D48322E55A31AC0bF.png",
       "extensions": {
         "scrollListId": "default",
         "scrollTokenId": "CRV"
@@ -196,7 +196,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://tokenlist.kurama.app/image0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1.png",
+      "logoURI": "https://tokenlist.kurama.app/images/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1.png",
       "extensions": {
         "scrollListId": "default",
         "scrollTokenId": "WBTC"
