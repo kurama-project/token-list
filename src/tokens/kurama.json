@@ -6,7 +6,7 @@
     "name": "Ether",
     "symbol": "ETH",
     "decimals": 18,
-    "logoURI": "https://kurama-token.netlify.app/images/kurama-test/0xa8AEfb1aFD335b43Ec8761bc0dc6fcD8657aAe87.png",
+    "logoURI": "https://tokenlist.kurama.app/image/0xa8AEfb1aFD335b43Ec8761bc0dc6fcD8657aAe87.png",
     "isNative": true,
     "extensions": {
       "scrollListId": "default",
@@ -46,7 +46,7 @@
     "name": "Balancer",
     "symbol": "BAL",
     "decimals": 18,
-    "logoURI": "https://kurama-token.netlify.app/images/kurama/0x6a28e90582c583fcd3347931c544819C31e9D0e0.png",
+    "logoURI": "https://tokenlist.kurama.app/image/0x6a28e90582c583fcd3347931c544819C31e9D0e0.png",
     "extensions": {
       "scrollListId": "default",
       "scrollTokenId": "BAL"
@@ -72,7 +72,7 @@
     "name": "Curve DAO",
     "symbol": "CRV",
     "decimals": 18,
-    "logoURI": "https://kurama-token.netlify.app/images/kurama/0xB755039eDc7910C1F1BD985D48322E55A31AC0bF.png",
+    "logoURI": "https://tokenlist.kurama.app/image/0xB755039eDc7910C1F1BD985D48322E55A31AC0bF.png",
     "extensions": {
       "scrollListId": "default",
       "scrollTokenId": "CRV"
@@ -181,7 +181,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://kurama-token.netlify.app/images/kurama/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1.png",
+    "logoURI": "https://tokenlist.kurama.app/image/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1.png",
     "extensions": {
       "scrollListId": "default",
       "scrollTokenId": "WBTC"
