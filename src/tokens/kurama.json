@@ -59,7 +59,7 @@
     "name": "PancakeSwap",
     "symbol": "CAKE",
     "decimals": 18,
-    "logoURI": "https://scroll-tech.github.io/token-list/data/CAKE/logo.svg",
+    "logoURI": "https://tokenlist.kurama.app/images/0xF613F403C2887aa473b46252da3AA5D6a6084b15.png",
     "extensions": {
       "scrollListId": "default",
       "scrollTokenId": "CAKE"
